@@ -38,7 +38,8 @@ _DEFAULT_CONFIG = {
         'type': 'string',
         'default': 'CC2650/%M/',
         'order': '2',
-        'displayName': 'Asset Name Prefix'
+        'displayName': 'Asset Name Prefix',
+        'mandatory': 'true'
     },
     'shutdownThreshold': {
         'description': 'Time in seconds allowed for shutdown to complete the pending tasks',
