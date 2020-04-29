@@ -42,9 +42,9 @@ To create a south service with the |SensorTag|
 
   - Name your service and click *Next*
 
-  +-------------+
-  | |cc25650_1| |
-  +-------------+
+  +------------+
+  | |cc2650_1| |
+  +------------+
 
   - Configure the plugin
 
