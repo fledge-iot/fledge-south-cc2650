@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # FLEDGE_BEGIN
-# See: http://fledge.readthedocs.io/
+# See: http://fledge-iot.readthedocs.io/
 # FLEDGE_END
 
 """Unit test for fledge.plugins.south.cc2650/cc2650.py"""
@@ -133,7 +133,7 @@ def test_plugin_contract():
 def test_plugin_info():
     assert cc2650.plugin_info() == {
         'name': 'TI SensorTag CC2650 plugin',
-        'version': '1.9.0',
+        'version': '1.9.1',
         'mode': 'poll',
         'type': 'south',
         'interface': '1.0',
