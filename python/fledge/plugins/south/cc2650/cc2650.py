@@ -11,7 +11,7 @@ import time
 
 from fledge.common import logger
 from fledge.plugins.common import utils
-from fledge.plugins.south.cc2650.sensortag_cc2650 import *
+
 
 __author__ = "Amarendra K Sinha"
 __copyright__ = "Copyright (c) 2018 Dianomic Systems"
