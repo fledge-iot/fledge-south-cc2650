@@ -7,10 +7,10 @@
 """Unit test for fledge.plugins.south.cc2650/cc2650.py"""
 import copy
 import pytest
-from unittest.mock import call
 
-from fledge.plugins.south.cc2650.sensortag_cc2650 import SensorTagCC2650
-from fledge.plugins.south.cc2650 import cc2650
+from unittest.mock import call
+from python.fledge.plugins.south.cc2650.sensortag_cc2650 import SensorTagCC2650
+from python.fledge.plugins.south.cc2650 import cc2650
 
 __author__ = "Amarendra K Sinha"
 __copyright__ = "Copyright (c) 2018 Dianomic Systems"

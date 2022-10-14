@@ -10,8 +10,8 @@ import pexpect
 import pytest
 import uuid
 from unittest.mock import call, Mock
-from fledge.plugins.south.cc2650 import sensortag_cc2650
-from fledge.plugins.south.cc2650.sensortag_cc2650 import SensorTagCC2650
+from python.fledge.plugins.south.cc2650 import sensortag_cc2650
+from python.fledge.plugins.south.cc2650.sensortag_cc2650 import SensorTagCC2650
 
 __author__ = "Amarendra K Sinha"
 __copyright__ = "Copyright (c) 2018 Dianomic Systems"

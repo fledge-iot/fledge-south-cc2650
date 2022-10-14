@@ -1,0 +1,1 @@
+from .sensortag_cc2650 import *
