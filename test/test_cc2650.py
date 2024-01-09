@@ -133,7 +133,7 @@ def test_plugin_contract():
 def test_plugin_info():
     assert cc2650.plugin_info() == {
         'name': 'TI SensorTag CC2650 plugin',
-        'version': '2.2.0',
+        'version': '2.3.0',
         'mode': 'poll',
         'type': 'south',
         'interface': '1.0',
